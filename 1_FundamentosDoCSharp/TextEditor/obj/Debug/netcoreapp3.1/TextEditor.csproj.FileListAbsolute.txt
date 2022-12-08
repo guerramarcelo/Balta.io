@@ -1,0 +1,14 @@
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.exe
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.deps.json
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.runtimeconfig.json
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.runtimeconfig.dev.json
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.dll
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.pdb
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.csproj.AssemblyReference.cache
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.AssemblyInfoInputs.cache
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.AssemblyInfo.cs
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.dll
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.pdb
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.genruntimeconfig.cache

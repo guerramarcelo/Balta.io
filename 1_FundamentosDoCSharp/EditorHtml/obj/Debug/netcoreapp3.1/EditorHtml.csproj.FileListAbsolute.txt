@@ -1,0 +1,14 @@
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.exe
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.deps.json
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.runtimeconfig.json
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.runtimeconfig.dev.json
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.dll
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.pdb
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.csproj.AssemblyReference.cache
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.AssemblyInfoInputs.cache
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.AssemblyInfo.cs
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.csproj.CoreCompileInputs.cache
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.dll
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.pdb
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.genruntimeconfig.cache

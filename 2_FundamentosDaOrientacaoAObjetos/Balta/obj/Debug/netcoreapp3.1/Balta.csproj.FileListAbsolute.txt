@@ -1,0 +1,14 @@
+C:\Users\Mbg19\source\repos\Balta.io\2_FundamentosDaOrientacaoAObjetos\Balta\bin\Debug\netcoreapp3.1\Balta.exe
+C:\Users\Mbg19\source\repos\Balta.io\2_FundamentosDaOrientacaoAObjetos\Balta\bin\Debug\netcoreapp3.1\Balta.deps.json
+C:\Users\Mbg19\source\repos\Balta.io\2_FundamentosDaOrientacaoAObjetos\Balta\bin\Debug\netcoreapp3.1\Balta.runtimeconfig.json
+C:\Users\Mbg19\source\repos\Balta.io\2_FundamentosDaOrientacaoAObjetos\Balta\bin\Debug\netcoreapp3.1\Balta.runtimeconfig.dev.json
+C:\Users\Mbg19\source\repos\Balta.io\2_FundamentosDaOrientacaoAObjetos\Balta\bin\Debug\netcoreapp3.1\Balta.dll
+C:\Users\Mbg19\source\repos\Balta.io\2_FundamentosDaOrientacaoAObjetos\Balta\bin\Debug\netcoreapp3.1\Balta.pdb
+C:\Users\Mbg19\source\repos\Balta.io\2_FundamentosDaOrientacaoAObjetos\Balta\obj\Debug\netcoreapp3.1\Balta.csproj.AssemblyReference.cache
+C:\Users\Mbg19\source\repos\Balta.io\2_FundamentosDaOrientacaoAObjetos\Balta\obj\Debug\netcoreapp3.1\Balta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mbg19\source\repos\Balta.io\2_FundamentosDaOrientacaoAObjetos\Balta\obj\Debug\netcoreapp3.1\Balta.AssemblyInfoInputs.cache
+C:\Users\Mbg19\source\repos\Balta.io\2_FundamentosDaOrientacaoAObjetos\Balta\obj\Debug\netcoreapp3.1\Balta.AssemblyInfo.cs
+C:\Users\Mbg19\source\repos\Balta.io\2_FundamentosDaOrientacaoAObjetos\Balta\obj\Debug\netcoreapp3.1\Balta.csproj.CoreCompileInputs.cache
+C:\Users\Mbg19\source\repos\Balta.io\2_FundamentosDaOrientacaoAObjetos\Balta\obj\Debug\netcoreapp3.1\Balta.dll
+C:\Users\Mbg19\source\repos\Balta.io\2_FundamentosDaOrientacaoAObjetos\Balta\obj\Debug\netcoreapp3.1\Balta.pdb
+C:\Users\Mbg19\source\repos\Balta.io\2_FundamentosDaOrientacaoAObjetos\Balta\obj\Debug\netcoreapp3.1\Balta.genruntimeconfig.cache

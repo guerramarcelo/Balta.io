@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balta", "Balta.csproj", "{D4E9DF5E-5157-426A-9DB9-5A99D2474FDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4E9DF5E-5157-426A-9DB9-5A99D2474FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4E9DF5E-5157-426A-9DB9-5A99D2474FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4E9DF5E-5157-426A-9DB9-5A99D2474FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4E9DF5E-5157-426A-9DB9-5A99D2474FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9218D41A-2F1B-4497-B3DE-546EA93F8C07}
+	EndGlobalSection
+EndGlobal

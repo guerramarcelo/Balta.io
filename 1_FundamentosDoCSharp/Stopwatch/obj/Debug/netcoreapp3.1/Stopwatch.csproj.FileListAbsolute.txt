@@ -1,0 +1,14 @@
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.exe
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.deps.json
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.runtimeconfig.json
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.runtimeconfig.dev.json
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.dll
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.pdb
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.csproj.AssemblyReference.cache
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.AssemblyInfoInputs.cache
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.AssemblyInfo.cs
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.dll
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.pdb
+C:\Users\Mbg19\source\repos\Balta.io\FundamentosDoCSharp\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.genruntimeconfig.cache
