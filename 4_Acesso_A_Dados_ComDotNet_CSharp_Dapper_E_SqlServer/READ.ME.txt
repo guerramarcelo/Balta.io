@@ -1,0 +1,1 @@
+Neste curso, reutilizei os Stored Procedures do banco de dados "balta" do curso 3- Fundamentos do SQL Server.
