@@ -11,15 +11,16 @@ namespace Blog
         static void Main(string[] args)
         {
             using var context = new BlogDataContext();
-            var posts = context
+            var post = context
                 .Posts
-                .AsNoTracking()   
                 .Include(x => x.Author)
-                .OrderByDescending(x => x.LastUpdateDate)
-                .ToList();
-            
-            foreach (var post in posts)
-                Console.WriteLine($"{post.Title} escrito por {post.Author?.Name}");
+                .Include(x => x.Category)
+                .OrderBy(x => x.LastUpdateDate)
+                .FirstOrDefault();
+            post.Author.Name = "Marcelo Antigo";
+            context.Posts.Update(post);
+            context.SaveChanges();
+
         }   
     }
 }
