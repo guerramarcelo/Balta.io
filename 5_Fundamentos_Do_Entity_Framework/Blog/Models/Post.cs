@@ -22,7 +22,7 @@ namespace Blog.Models
         [Required]
         [MinLength(1)]
         [MaxLength(255)]
-        [Column("Sumary", TypeName = "VARCHAR")]
+        [Column("Summary", TypeName = "VARCHAR")]
         public string Summary { get; set; }
 
         [Required]        
