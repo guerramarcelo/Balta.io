@@ -11,9 +11,7 @@ namespace Blog.Models
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int Id { get; set; }
-        public int CategoryId { get; set; }
-        public int AuthorId { get; set; }
+        public int Id { get; set; }       
 
         [Required]
         [MinLength(1)]
@@ -21,13 +19,11 @@ namespace Blog.Models
         [Column("Title", TypeName = "VARCHAR")]
         public string Title { get; set; }
 
-
         [Required]
         [MinLength(1)]
         [MaxLength(255)]
         [Column("Sumary", TypeName = "VARCHAR")]
         public string Summary { get; set; }
-
 
         [Required]        
         [Column("Body", TypeName = "TEXT")]
@@ -46,5 +42,12 @@ namespace Blog.Models
         [Required]
         [Column("LastUpdateDate", TypeName = "DATETIME")]
         public DateTime LastUpdateDate { get; set; }
+
+        [ForeignKey("CategoryId")]
+        public int CategoryId { get; set; }
+
+        [ForeignKey("AuthorId")]
+        public int AuthorId { get; set; }
+
     }
 }
