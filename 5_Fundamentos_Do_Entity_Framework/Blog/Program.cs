@@ -17,10 +17,9 @@ namespace Blog
                 .Include(x => x.Category)
                 .OrderBy(x => x.LastUpdateDate)
                 .FirstOrDefault();
-            post.Author.Name = "Marcelo Antigo";
+            post.Author.Name = "Teste";
             context.Posts.Update(post);
             context.SaveChanges();
-
         }   
     }
 }
