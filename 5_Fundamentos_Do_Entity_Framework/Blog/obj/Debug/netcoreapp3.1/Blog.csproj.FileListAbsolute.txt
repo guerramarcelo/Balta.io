@@ -4,9 +4,11 @@ C:\Users\Mbg19\OneDrive\Área de Trabalho\Balta.io\5_Fundamentos_Do_Entity_Frame
 C:\Users\Mbg19\OneDrive\Área de Trabalho\Balta.io\5_Fundamentos_Do_Entity_Framework\Blog\bin\Debug\netcoreapp3.1\Blog.runtimeconfig.dev.json
 C:\Users\Mbg19\OneDrive\Área de Trabalho\Balta.io\5_Fundamentos_Do_Entity_Framework\Blog\bin\Debug\netcoreapp3.1\Blog.dll
 C:\Users\Mbg19\OneDrive\Área de Trabalho\Balta.io\5_Fundamentos_Do_Entity_Framework\Blog\bin\Debug\netcoreapp3.1\Blog.pdb
+C:\Users\Mbg19\OneDrive\Área de Trabalho\Balta.io\5_Fundamentos_Do_Entity_Framework\Blog\bin\Debug\netcoreapp3.1\Humanizer.dll
 C:\Users\Mbg19\OneDrive\Área de Trabalho\Balta.io\5_Fundamentos_Do_Entity_Framework\Blog\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 C:\Users\Mbg19\OneDrive\Área de Trabalho\Balta.io\5_Fundamentos_Do_Entity_Framework\Blog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
 C:\Users\Mbg19\OneDrive\Área de Trabalho\Balta.io\5_Fundamentos_Do_Entity_Framework\Blog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mbg19\OneDrive\Área de Trabalho\Balta.io\5_Fundamentos_Do_Entity_Framework\Blog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\Mbg19\OneDrive\Área de Trabalho\Balta.io\5_Fundamentos_Do_Entity_Framework\Blog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\Mbg19\OneDrive\Área de Trabalho\Balta.io\5_Fundamentos_Do_Entity_Framework\Blog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\Mbg19\OneDrive\Área de Trabalho\Balta.io\5_Fundamentos_Do_Entity_Framework\Blog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
