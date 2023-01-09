@@ -58,6 +58,7 @@ namespace Blog.Migrations
                     Name = table.Column<string>(type: "NVARCHAR(80)", maxLength: 80, nullable: false),
                     Email = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     PasswordHash = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    GitHub = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     Bio = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     Image = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     Slug = table.Column<string>(type: "VARCHAR(80)", maxLength: 80, nullable: false)
