@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\5 - Fundamentos do Entity Framework",
+    "\\5 - Fundamentos do Entity Framework\\Blog",
+    "\\5 - Fundamentos do Entity Framework\\Blog\\Data"
   ],
-  "SelectedNode": "\\C:\\Users\\Mbg19\\OneDrive\\Área de Trabalho\\Balta.io",
+  "SelectedNode": "\\5 - Fundamentos do Entity Framework\\Blog\\Data\\BlogDataContext.cs",
   "PreviewInSolutionExplorer": false
 }

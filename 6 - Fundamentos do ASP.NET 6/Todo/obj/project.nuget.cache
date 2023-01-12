@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "44s97EJRdJPlLWq0SkkoLbMm0VQ/Gx8IrHmxdPvZkSer9kJs3GTdD+7mODgOeZIsehucmEtD7QkqMVXKoyBW/Q==",
+  "dgSpecHash": "vs6jGBJOHsJvZ5Nt5qkhvjrtfUejM1uq/93hbPp8isnl/xPAlXBsSXw0a/AdHQMQWWUSFwxHM2neuuZgqO70PQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mbg19\\OneDrive\\Área de Trabalho\\Balta.io\\6 - Fundamentos do ASP.NET 6\\Todo\\Todo.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,7 @@
     "C:\\Users\\Mbg19\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.11\\microsoft.entityframeworkcore.relational.5.0.11.nupkg.sha512",
     "C:\\Users\\Mbg19\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\5.0.11\\microsoft.entityframeworkcore.sqlite.5.0.11.nupkg.sha512",
     "C:\\Users\\Mbg19\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\5.0.11\\microsoft.entityframeworkcore.sqlite.core.5.0.11.nupkg.sha512",
+    "C:\\Users\\Mbg19\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.11\\microsoft.entityframeworkcore.tools.5.0.11.nupkg.sha512",
     "C:\\Users\\Mbg19\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Mbg19\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "C:\\Users\\Mbg19\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
