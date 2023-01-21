@@ -12,9 +12,8 @@ builder
     });
     
 builder.Services.AddDbContext<BlogDataContext>();
-builder.Services.AddTransient<TokenService>(); //Sempre cria uma nova instância
-builder.Services.AddScoped(); //Dura a requisição
-builder.Services.AddSingleton(); // 1 por app
+builder.Services.AddTransient<TokenService>();
+
 
 var app = builder.Build();
 
