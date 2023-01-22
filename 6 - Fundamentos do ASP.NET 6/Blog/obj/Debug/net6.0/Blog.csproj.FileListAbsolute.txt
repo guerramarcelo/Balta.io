@@ -19,7 +19,6 @@ C:\Users\Mbg19\OneDrive\Área de Trabalho\Balta.io\6 - Fundamentos do ASP.NET 6\
 C:\Users\Mbg19\OneDrive\Área de Trabalho\Balta.io\6 - Fundamentos do ASP.NET 6\Blog\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\Mbg19\OneDrive\Área de Trabalho\Balta.io\6 - Fundamentos do ASP.NET 6\Blog\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Mbg19\OneDrive\Área de Trabalho\Balta.io\6 - Fundamentos do ASP.NET 6\Blog\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Mbg19\OneDrive\Área de Trabalho\Balta.io\6 - Fundamentos do ASP.NET 6\Blog\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\Mbg19\OneDrive\Área de Trabalho\Balta.io\6 - Fundamentos do ASP.NET 6\Blog\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
 C:\Users\Mbg19\OneDrive\Área de Trabalho\Balta.io\6 - Fundamentos do ASP.NET 6\Blog\bin\Debug\net6.0\System.Drawing.Common.dll
 C:\Users\Mbg19\OneDrive\Área de Trabalho\Balta.io\6 - Fundamentos do ASP.NET 6\Blog\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
@@ -63,3 +62,4 @@ C:\Users\Mbg19\OneDrive\Área de Trabalho\Balta.io\6 - Fundamentos do ASP.NET 6\
 C:\Users\Mbg19\OneDrive\Área de Trabalho\Balta.io\6 - Fundamentos do ASP.NET 6\Blog\obj\Debug\net6.0\Blog.pdb
 C:\Users\Mbg19\OneDrive\Área de Trabalho\Balta.io\6 - Fundamentos do ASP.NET 6\Blog\obj\Debug\net6.0\Blog.genruntimeconfig.cache
 C:\Users\Mbg19\OneDrive\Área de Trabalho\Balta.io\6 - Fundamentos do ASP.NET 6\Blog\obj\Debug\net6.0\ref\Blog.dll
+C:\Users\Mbg19\OneDrive\Área de Trabalho\Balta.io\6 - Fundamentos do ASP.NET 6\Blog\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
