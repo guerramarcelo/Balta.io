@@ -1,12 +1,15 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Blog.Attributes;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Blog.Controllers
 {
     [ApiController]
     [Route("")]
+    [ApiKey]
     public class HomeController : ControllerBase
     {
         [HttpGet("")]
+        
         public IActionResult Get()
         {
             return Ok();
