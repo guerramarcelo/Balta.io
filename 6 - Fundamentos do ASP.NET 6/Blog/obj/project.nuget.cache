@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BAvf2LU3g2wmUMAvbiQN+31B2aqinZePaPenvwSprXWIBqztoYPmdpRj0W+yC+5GtTYq+JuaD03x9Kfgya+C5g==",
+  "dgSpecHash": "BbB0FuLTLF+x152z4UyLg1ZbHr6M+zYqxAhy5CkgO9DAoOb6Nyg9hDf9caSmBBAuL19u6nuFXuvVwyedZTtbVA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mbg19\\OneDrive\\Área de Trabalho\\Balta.io\\6 - Fundamentos do ASP.NET 6\\Blog\\Blog.csproj",
   "expectedPackageFiles": [
@@ -53,6 +53,7 @@
     "C:\\Users\\Mbg19\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Mbg19\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\Mbg19\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
+    "C:\\Users\\Mbg19\\.nuget\\packages\\secureidentity\\1.0.4\\secureidentity.1.0.4.nupkg.sha512",
     "C:\\Users\\Mbg19\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\Mbg19\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\Mbg19\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
