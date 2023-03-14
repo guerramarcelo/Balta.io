@@ -6301,24 +6301,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mbg19\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\marcelo.guerra\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mbg19\\OneDrive\\Área de Trabalho\\Balta.io\\6 - Fundamentos do ASP.NET 6\\Blog\\Blog.csproj",
+      "projectUniqueName": "C:\\Users\\marcelo.guerra\\source\\repos\\Balta.io-master\\Balta.io-master\\6 - Fundamentos do ASP.NET 6\\Blog\\Blog.csproj",
       "projectName": "Blog",
-      "projectPath": "C:\\Users\\Mbg19\\OneDrive\\Área de Trabalho\\Balta.io\\6 - Fundamentos do ASP.NET 6\\Blog\\Blog.csproj",
-      "packagesPath": "C:\\Users\\Mbg19\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mbg19\\OneDrive\\Área de Trabalho\\Balta.io\\6 - Fundamentos do ASP.NET 6\\Blog\\obj\\",
+      "projectPath": "C:\\Users\\marcelo.guerra\\source\\repos\\Balta.io-master\\Balta.io-master\\6 - Fundamentos do ASP.NET 6\\Blog\\Blog.csproj",
+      "packagesPath": "C:\\Users\\marcelo.guerra\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marcelo.guerra\\source\\repos\\Balta.io-master\\Balta.io-master\\6 - Fundamentos do ASP.NET 6\\Blog\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Mbg19\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\marcelo.guerra\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6386,7 +6381,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
