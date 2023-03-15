@@ -6306,11 +6306,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marcelo.guerra\\source\\repos\\Balta.io-master\\Balta.io-master\\6 - Fundamentos do ASP.NET 6\\Blog\\Blog.csproj",
+      "projectUniqueName": "C:\\Users\\marcelo.guerra\\source\\repos\\Balta.io\\6 - Fundamentos do ASP.NET 6\\Blog\\Blog.csproj",
       "projectName": "Blog",
-      "projectPath": "C:\\Users\\marcelo.guerra\\source\\repos\\Balta.io-master\\Balta.io-master\\6 - Fundamentos do ASP.NET 6\\Blog\\Blog.csproj",
+      "projectPath": "C:\\Users\\marcelo.guerra\\source\\repos\\Balta.io\\6 - Fundamentos do ASP.NET 6\\Blog\\Blog.csproj",
       "packagesPath": "C:\\Users\\marcelo.guerra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marcelo.guerra\\source\\repos\\Balta.io-master\\Balta.io-master\\6 - Fundamentos do ASP.NET 6\\Blog\\obj\\",
+      "outputPath": "C:\\Users\\marcelo.guerra\\source\\repos\\Balta.io\\6 - Fundamentos do ASP.NET 6\\Blog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marcelo.guerra\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0objBhsPkmsrn0sX5YeTq3Epj6ElkuLY3i866rVnzRvrXuJrG2BN9Y235gXm4zwzakO9VqMoXk7E6JNZe1Fhgg==",
+  "dgSpecHash": "qeYlUOv72Ut+XaWZgQecCuVe7CNOGzc7kn3kKOlg4OTfTHyi7C5HP8myyaLGtKRZROXNz4XY5VAveKtXPm776Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marcelo.guerra\\source\\repos\\Balta.io-master\\Balta.io-master\\6 - Fundamentos do ASP.NET 6\\Blog\\Blog.csproj",
+  "projectFilePath": "C:\\Users\\marcelo.guerra\\source\\repos\\Balta.io\\6 - Fundamentos do ASP.NET 6\\Blog\\Blog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marcelo.guerra\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\marcelo.guerra\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
