@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\marcelo.guerra\\source\\repos\\Balta.io\\9 - Refatorando para testes de unidade\\Store.Tests\\Store.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\marcelo.guerra\\source\\repos\\Balta.io\\9 - Refatorando para testes de unidade\\Store.Domain\\Store.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marcelo.guerra\\source\\repos\\Balta.io\\9 - Refatorando para testes de unidade\\Store.Domain\\Store.Domain.csproj",
+        "projectName": "Store.Domain",
+        "projectPath": "C:\\Users\\marcelo.guerra\\source\\repos\\Balta.io\\9 - Refatorando para testes de unidade\\Store.Domain\\Store.Domain.csproj",
+        "packagesPath": "C:\\Users\\marcelo.guerra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marcelo.guerra\\source\\repos\\Balta.io\\9 - Refatorando para testes de unidade\\Store.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\marcelo.guerra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Flunt": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\marcelo.guerra\\source\\repos\\Balta.io\\9 - Refatorando para testes de unidade\\Store.Tests\\Store.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marcelo.guerra\\source\\repos\\Balta.io\\9 - Refatorando para testes de unidade\\Store.Tests\\Store.Tests.csproj",
+        "projectName": "Store.Tests",
+        "projectPath": "C:\\Users\\marcelo.guerra\\source\\repos\\Balta.io\\9 - Refatorando para testes de unidade\\Store.Tests\\Store.Tests.csproj",
+        "packagesPath": "C:\\Users\\marcelo.guerra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marcelo.guerra\\source\\repos\\Balta.io\\9 - Refatorando para testes de unidade\\Store.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\marcelo.guerra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\marcelo.guerra\\source\\repos\\Balta.io\\9 - Refatorando para testes de unidade\\Store.Domain\\Store.Domain.csproj": {
+                "projectPath": "C:\\Users\\marcelo.guerra\\source\\repos\\Balta.io\\9 - Refatorando para testes de unidade\\Store.Domain\\Store.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

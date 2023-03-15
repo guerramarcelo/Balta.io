@@ -44,6 +44,10 @@
               "target": "Package",
               "version": "[1.0.3, )"
             },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",

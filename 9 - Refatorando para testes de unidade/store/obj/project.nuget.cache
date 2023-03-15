@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "TMkEdbgPbl4bkGGvLf3DxBLPO+ZRWYuO+XkMzDFkdgATvMwz5yMTuVjTrHhPoactiKIrZ185dPgjhE8vMZuV+w==",
+  "dgSpecHash": "qvmRIJDyiIPIIzXSteX3DTsgE5zwbuhC4mk9nEQa9B+7kOpL9gBYF+zA38Em36VdCissv/vrGhbaly2WbInKnA==",
   "success": true,
   "projectFilePath": "C:\\Users\\marcelo.guerra\\source\\repos\\Balta.io\\9 - Refatorando para testes de unidade\\store\\Store.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marcelo.guerra\\.nuget\\packages\\flunt\\1.0.3\\flunt.1.0.3.nupkg.sha512",
     "C:\\Users\\marcelo.guerra\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\marcelo.guerra\\.nuget\\packages\\mstest.testframework\\3.0.2\\mstest.testframework.3.0.2.nupkg.sha512",
     "C:\\Users\\marcelo.guerra\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []

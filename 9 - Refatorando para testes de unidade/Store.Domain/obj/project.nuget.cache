@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sKPGluDjNH4YO5JCYaN2kza56/XbUGmDUX4wBMu1vNLznoyhc3erXFV5OtYcwkMr5isM5Hlh2cvMtlPhHrQ8jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marcelo.guerra\\source\\repos\\Balta.io\\9 - Refatorando para testes de unidade\\Store.Domain\\Store.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marcelo.guerra\\.nuget\\packages\\flunt\\1.0.3\\flunt.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

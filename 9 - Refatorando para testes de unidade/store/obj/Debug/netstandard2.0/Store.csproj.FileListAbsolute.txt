@@ -1,0 +1,10 @@
+C:\Users\marcelo.guerra\source\repos\Balta.io\9 - Refatorando para testes de unidade\store\obj\Debug\netstandard2.0\Store.csproj.AssemblyReference.cache
+C:\Users\marcelo.guerra\source\repos\Balta.io\9 - Refatorando para testes de unidade\store\obj\Debug\netstandard2.0\Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcelo.guerra\source\repos\Balta.io\9 - Refatorando para testes de unidade\store\obj\Debug\netstandard2.0\Store.AssemblyInfoInputs.cache
+C:\Users\marcelo.guerra\source\repos\Balta.io\9 - Refatorando para testes de unidade\store\obj\Debug\netstandard2.0\Store.AssemblyInfo.cs
+C:\Users\marcelo.guerra\source\repos\Balta.io\9 - Refatorando para testes de unidade\store\obj\Debug\netstandard2.0\Store.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.guerra\source\repos\Balta.io\9 - Refatorando para testes de unidade\store\bin\Debug\netstandard2.0\Store.deps.json
+C:\Users\marcelo.guerra\source\repos\Balta.io\9 - Refatorando para testes de unidade\store\bin\Debug\netstandard2.0\Store.dll
+C:\Users\marcelo.guerra\source\repos\Balta.io\9 - Refatorando para testes de unidade\store\bin\Debug\netstandard2.0\Store.pdb
+C:\Users\marcelo.guerra\source\repos\Balta.io\9 - Refatorando para testes de unidade\store\obj\Debug\netstandard2.0\Store.dll
+C:\Users\marcelo.guerra\source\repos\Balta.io\9 - Refatorando para testes de unidade\store\obj\Debug\netstandard2.0\Store.pdb
